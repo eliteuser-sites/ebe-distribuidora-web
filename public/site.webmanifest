@@ -1,0 +1,8 @@
+{
+  "name": "EBE Distribuidora",
+  "short_name": "EBE",
+  "icons": [{ "src": "/assets/ebe-logo.png", "sizes": "512x512", "type": "image/png" }],
+  "theme_color": "#0a280f",
+  "background_color": "#f7f5ef",
+  "display": "standalone"
+}
